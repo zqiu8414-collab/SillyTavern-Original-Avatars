@@ -1,0 +1,28 @@
+#original_avatars_settings .original-avatars-panel {
+    border: 1px solid var(--SmartThemeBorderColor, #666);
+    border-radius: 8px;
+    margin: 6px 0;
+    overflow-wrap: anywhere;
+}
+#original_avatars_settings summary {
+    cursor: pointer;
+    padding: 12px;
+    line-height: 1.5;
+}
+#original_avatars_settings .original-avatars-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0 12px 14px;
+}
+#original_avatars_settings .checkbox_label {
+    min-height: 36px;
+    align-items: center;
+}
+#original_avatars_settings small {
+    display: block;
+    line-height: 1.65;
+}
+#original_avatars_settings .original-avatars-note {
+    opacity: 0.72;
+}

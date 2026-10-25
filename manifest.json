@@ -1,0 +1,12 @@
+{
+  "display_name": "原图头像 · Original Avatars",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "zqiu8414-collab",
+  "version": "1.1.0",
+  "homePage": "https://github.com/zqiu8414-collab/SillyTavern-Original-Avatars",
+  "auto_update": true
+}
